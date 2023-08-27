@@ -1,3 +1,5 @@
+![Nuxt Snackbar](https://github.com/Luxoruus/nuxt-snackbar/assets/64335628/222d2ca4-4eca-4171-bb1f-96bbdd036d09)
+
 # Nuxt Snackbar
 
 [![npm version][npm-version-src]][npm-version-href]
