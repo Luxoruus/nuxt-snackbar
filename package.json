@@ -1,6 +1,6 @@
 {
   "name": "@luxorus/nuxt-snackbar",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A highly customizable snackbar module for Nuxt",
   "repository": "https://github.com/Luxoruus/nuxt-snackbar",
   "license": "MIT",
